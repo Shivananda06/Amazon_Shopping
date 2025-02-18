@@ -39,6 +39,8 @@ npm install
 ## Technologies Used
 
 - HTML
+- CSS
 - JavaScript (Object-Oriented and Functional Programming)
 - JSON for data storage
+  
 
